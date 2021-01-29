@@ -1,2 +1,2 @@
 # SSD300_with_keras
-Implementation of SDD object detection Model in keras
+Implementation of SSD architecture for object detection Model in keras
